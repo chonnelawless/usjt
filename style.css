@@ -1,0 +1,50 @@
+h2{
+color: #8ac7dd;
+
+
+}
+
+
+
+body{
+
+
+    font-family: 'Open Sans','Nunito','Lucida Grande', 'Lucida Sans Unicode', Helvetica, Arial, Verdana, sans-serif;
+
+
+margin: 50px;
+padding: 0;
+background-color: white;
+color: #09232e
+} 
+
+.container2{
+	
+
+list-style-type: none;
+	
+	
+}
+
+
+.firstullist{
+	
+list-style-type: circle;
+font-size:20px;	
+}
+
+.something{
+	
+font-size: 20px;
+color: orange;	
+text-align: center;
+}
+
+
+
+.schedule{
+	
+font-size: 30px;
+color: black;
+text-align: center;
+}
